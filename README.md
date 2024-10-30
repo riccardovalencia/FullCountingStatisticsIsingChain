@@ -22,7 +22,7 @@ C++11: This library requires a C++11-compliant compiler.
 
 Clone the repository:
 ```bash
-git clone https://github.com/rvalencia1995/FullCountingStatisticsIsingChain.git
+git clone https://github.com/riccardovalencia/FullCountingStatisticsIsingChain.git
 ```
 
 ## Usage
